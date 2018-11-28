@@ -1,0 +1,13 @@
+source 'https://rubygems.org'
+
+gem 'appium_lib'
+gem 'cucumber'
+gem 'data_magic'
+gem 'page-object', '~> 2.0'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'selenium-webdriver','~> 3.5'
+gem 'watir','~> 6.8'
+gem 'rack-mini-profiler'
+gem 'rspec_junit_formatter'
